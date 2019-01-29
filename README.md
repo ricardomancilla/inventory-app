@@ -4,6 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This project will display a list of products, it is built by small pieces (components).
 
+You can see the project running on [zeit.co/now](https://inventory-app-cyaask4oh.now.sh/).
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
